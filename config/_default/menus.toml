@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Store"
-  link = "https://store.heavenly.cl"
+  url = "https://store.heavenly.cl"
   weight = 5
 
 [[main]]
