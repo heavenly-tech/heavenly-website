@@ -112,7 +112,7 @@ appointment_url = "https://calendly.com/heavenly-tech"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "store", icon_pack = "fas", name = "Ve nuestra tienda", link = "https://store.heavenly.cl"},
+  {icon = "store-alt", icon_pack = "fas", name = "Ve nuestra tienda", link = "https://store.heavenly.cl"},
   {icon = "comments", icon_pack = "fas", name = "Entra al foro", link = "https://forum.heavenly.cl"},
   {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/heavenlytechchile"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
