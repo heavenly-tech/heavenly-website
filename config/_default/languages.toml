@@ -28,22 +28,22 @@
     url = "#inicio"
     weight = 10
 
-  [[main]]
+  [[es.menu.main]]
     name = "Posteos"
     url = "#posteos"
     weight = 20
 
-  [[main]]
+  [[es.menu.main]]
     name = "Proyectos"
     url = "#proyectos"
     weight = 30
 
-  [[main]]
+  [[es.menu.main]]
     name = "Publicaciones"
     url = "#publicaciones"
     weight = 40
 
-  [[main]]
+  [[es.menu.main]]
     name = "Contacto"
     url = "#contacto"
     weight = 60
