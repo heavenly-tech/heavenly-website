@@ -4,8 +4,8 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  languageCode = "en-GB"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
@@ -18,3 +18,32 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+[es]
+  languageCode = "es-CL"
+  contentDir = "content/es"
+  [es.params]
+    description = "Descripcion"
+#  [[es.menu.main]]
+#    name = "Inicio"
+#    url = "#inicio"
+#    weight = 10
+
+#  [[es.menu.main]]
+#    name = "Posteos"
+#    url = "#posteos"
+#    weight = 20
+
+#  [[es.menu.main]]
+#    name = "Proyectos"
+#    url = "#proyectos"
+#    weight = 30
+
+#  [[es.menu.main]]
+#    name = "Publicaciones"
+#    url = "#publicaciones"
+#    weight = 40
+
+#  [[es.menu.main]]
+#    name = "Contacto"
+#    url = "#contacto"
+#    weight = 60
