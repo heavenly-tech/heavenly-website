@@ -4,6 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Foro"
+  link = "https://forum.heavenly.cl"
+  weight = 1
+
+[[main]]
+  name = "Tienda"
+  link = "https://store.heavenly.cl"
+  weight = 5
+
+[[main]]
   name = "Inicio"
   url = "#inicio"
   weight = 10
