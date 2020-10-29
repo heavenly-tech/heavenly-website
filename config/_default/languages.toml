@@ -18,3 +18,32 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+[es]
+  languageCode = "es-CL"
+  contentDir = "content/es"
+  [es.params]
+    description = "Descripcion"
+  [[es.menu.main]]
+    name = "Inicio"
+    url = "#inicio"
+    weight = 10
+
+  [[main]]
+    name = "Posteos"
+    url = "#posteos"
+    weight = 20
+
+  [[main]]
+    name = "Proyectos"
+    url = "#proyectos"
+    weight = 30
+
+  [[main]]
+    name = "Publicaciones"
+    url = "#publicaciones"
+    weight = 40
+
+  [[main]]
+    name = "Contacto"
+    url = "#contacto"
+    weight = 60
