@@ -19,19 +19,9 @@
   weight = 10
 
 [[main]]
-  name = "Posteos"
-  url = "#posteos"
-  weight = 20
-
-[[main]]
   name = "Proyectos"
   url = "#proyectos"
   weight = 30
-
-[[main]]
-  name = "Publicaciones"
-  url = "#publicaciones"
-  weight = 40
 
 [[main]]
   name = "Contacto"
