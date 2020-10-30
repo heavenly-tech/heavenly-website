@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "pencil-ruler"
+  icon_pack = "fas"
+  name = "CAD"
+  description = "Diseño y dibujo técnico computarizado"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "print"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Impresión 3D"
+  description = "Métodos de desarrollo de prototipos o productos finales"  
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "rocket"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Ingeniería Aeroespacial"
+  description = "Orientación a la industria aeronáutica"
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Bricolaje"
+  description = "Apoyo con proyectos ad-hoc"
+
+[[feature]]
+  icon = "gamepad"
+  icon_pack = "fas"
+  name = "Simulación de Vuelo"
+  description = "Implementación de soluciones de simulación"
+
+[[feature]]
+  icon = "helicopter"
+  icon_pack = "fas"
+  name = "Drones"
+  description = "Desarrollo de drones para soluciones aplicadas"
 
 # Uncomment to use emoji icons.
 # [[feature]]
