@@ -5,32 +5,50 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Habilidades"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "CAD"
+  description = "Diseño y dibujo técnico computarizado"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "print"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Impresión 3D"
+  description = "Métodos de desarrollo de prototipos o productos finales"  
+
+[[feature]]
+  icon = "rocket"
+  icon_pack = "fas"
+  name = "Ingeniería Aeroespacial"
+  description = "Orientación a la industria aeronáutica"
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Bricolaje"
+  description = "Apoyo con proyectos ad-hoc"
+
+[[feature]]
+  icon = "gamepad"
+  icon_pack = "fas"
+  name = "Simulación de Vuelo"
+  description = "Implementación de soluciones de simulación"
+
+[[feature]]
+  icon = "helicopter"
+  icon_pack = "fas"
+  name = "Drones"
+  description = "Desarrollo de drones para soluciones aplicadas"
 
 # Uncomment to use emoji icons.
 # [[feature]]
