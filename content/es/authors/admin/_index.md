@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: MEng (Máster) en Ineniería Aeroespacial
+  - course: MEng (Máster) en Ingeniería Aeroespacial
     institution: Universidad de Bristol, Reino Unido
     year: 2018
   - course: A-Level en Matemáticas Avanzadas y Física
@@ -73,4 +73,6 @@ highlight_name: false
 #- Visitors
 ---
 
-Contenido
+Nuestro fundador, siempre dispuesto a aprender y solucionar problemas. Fanático de la aviación, y un verdadero computín. Gracias a su título en Ingeniería cuenta con habilidades en programación y diseño orientado a la producción.
+
+Les extiende una buena acogida y desea lo mejor en todos sus proyectos! Estará disponible para atender sus consultas.
