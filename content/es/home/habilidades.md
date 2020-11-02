@@ -24,7 +24,7 @@ subtitle = ""
   icon = "print"
   icon_pack = "fas"
   name = "Impresión 3D"
-  description = "Métodos de desarrollo de prototipos o productos finales"  
+  description = "Producción de prototipos o productos finales"  
 
 [[feature]]
   icon = "rocket"
