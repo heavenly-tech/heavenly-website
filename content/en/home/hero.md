@@ -51,4 +51,6 @@ title = "Heavenly Tech Chile"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**This language is still in development - please visit our Spanish page**
+**This language is still in development - please visit our Spanish page in the meantime**
+
+See you soon!
