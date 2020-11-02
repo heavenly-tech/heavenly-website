@@ -6,12 +6,12 @@
 [[main]]
   name = "Foro"
   url = "https://forum.heavenly.cl"
-  weight = 1
+  weight = 5
 
 [[main]]
   name = "Tienda"
   url = "https://store.heavenly.cl"
-  weight = 5
+  weight = 1
 
 [[main]]
   name = "Equipo"
