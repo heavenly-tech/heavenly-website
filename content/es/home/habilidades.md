@@ -50,6 +50,12 @@ subtitle = ""
   name = "Drones"
   description = "Desarrollo de drones para soluciones aplicadas"
 
+[[feature]]
+  icon = "globe"
+  icon_pack = "fas"
+  name = "Servicios Web"
+  description = "Administración y lanzamiento de sitios web"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
