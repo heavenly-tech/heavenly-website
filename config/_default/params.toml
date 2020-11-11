@@ -107,7 +107,7 @@ directions = "Edificio Quantum, Piso 11, Oficina 1121"
 office_hours = ["Lunes a Viernes 10:00 a 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/heavenly-tech"
+appointment_url = ""#https://calendly.com/heavenly-tech"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
