@@ -14,6 +14,16 @@
   weight = 1
 
 [[main]]
+  name = "Habilidades"
+  url = "#habilidades"
+  weight = 7
+
+[[main]]
+  name = "Proyectos"
+  url = "#proyectos"
+  weight = 9
+
+[[main]]
   name = "Equipo"
   url = "#equipo"
   weight = 10
