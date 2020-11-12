@@ -6,6 +6,8 @@ tags = ["web"]
 
 date = "2020-11-11"
 
+draft = true
+
 +++
 
 Hemos creado páginas web para clientes. Velas aquí.

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Proyectos"
-subtitle = "En qué estamos trabajando"
+subtitle = "En qué trabajamos"
 
 [content]
   # Page type to display. E.g. project.
@@ -28,9 +28,14 @@ subtitle = "En qué estamos trabajando"
 #   [[content.filter_button]]
 #     name = "Drones"
 #     tag = "Drones"
+
 #   [[content.filter_button]]
 #     name = "Impresión 3D"
-#     tag = "Impresion 3D" "web"
+#     tag = "Impresion 3D"
+
+#   [[content.filter_button]]
+#     name = "Web"
+#     tag = "Web"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

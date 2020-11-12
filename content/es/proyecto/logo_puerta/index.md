@@ -6,6 +6,8 @@ tags = ["Impresión 3D"]
 
 date = "2020-11-10"
 
+draft = true
+
 +++
 
 Es importante hacer presencia como empresa, ¡Sobretodo desde la entrada a tu lugar de trabajo!
