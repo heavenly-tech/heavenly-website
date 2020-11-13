@@ -6,7 +6,7 @@ title: Pablo Andalaft
 superuser: true
 
 # Role/position
-role: Socio Fundador
+role: Ingeniero Aeroespacial
 
 # Organizations/Affiliations
 organizations:
