@@ -10,11 +10,9 @@ draft = false
 
 +++
 
-Es importante hacer presencia como empresa, ¡Sobretodo desde la entrada a tu lugar de trabajo!
+Para instalarnos debidamente en nuestra oficina, diseñamos una placa impresa enteramente con nuestras impresoras, le dimos nuestro propio toque.
 
-Para decorar la entrada de la oficina de Heavenly, diseñamos una placa impresa enteramente con nuestras impresoras, le dimos nuestro propio toque.
-
-Habían monturas para placas de vidrio o acrílico, por lo que se eligió diseñar para que encajara ahí. Como el área es grande se debe imprimir por partes. Con CAD se diseñaron las partes, tanto para presentarlas como para imprimirlas. Les mostramos nuestro proceso y resultados:
+Ya existían unas monturas para placas de vidrio o acrílico, por lo que se eligió diseñar para que encajara ahí y dejar el muro tal cual lo recibimos. Como el área es grande se debió imprimir por partes. Con CAD se diseñaron las partes, tanto para presentarlas como para imprimirlas. Les mostramos nuestro proceso y resultados:
 
 # Imágenes
 ### CAD inicial
