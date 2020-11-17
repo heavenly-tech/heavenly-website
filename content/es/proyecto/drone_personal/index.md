@@ -6,12 +6,11 @@ tags = ["Drones", "Impresión 3D"]
 
 date = "2020-11-11"
 
-draft = true
+draft = false
 
 +++
 
+Por encargo de un cliente, comenzamos a producir
 Nuestro primer proyecto de drón.
-
-La documentación del proyecto se encuentra en [GitHub](https://github.com/pandaero/3DPrintCopterX)
 
 ## Imágenes
