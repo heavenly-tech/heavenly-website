@@ -114,8 +114,8 @@ appointment_url = ""#https://calendly.com/heavenly-tech"
 contact_links = [
   {icon = "store-alt", icon_pack = "fas", name = "Ve nuestra tienda", link = "https://store.heavenly.cl"},
   {icon = "comments", icon_pack = "fas", name = "Entra al foro", link = "https://forum.heavenly.cl"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/heavenlytechchile"}
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/heavenlytechchile"},
+  {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/heavenly.tech/"}
   ]
 
 ############################
