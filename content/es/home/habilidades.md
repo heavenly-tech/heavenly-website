@@ -56,6 +56,12 @@ subtitle = ""
   name = "Servicios Web"
   description = "Administración y lanzamiento de sitios web"
 
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Computación"
+  description = "Arreglo de computadores y programación"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
