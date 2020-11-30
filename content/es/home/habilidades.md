@@ -54,7 +54,19 @@ subtitle = ""
   icon = "globe"
   icon_pack = "fas"
   name = "Servicios Web"
-  description = "Administración y lanzamiento de sitios web"
+  description = "Gestión y lanzamiento de sitios web"
+
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Computación"
+  description = "Arreglo de computadores y programación"
+
+[[feature]]
+  icon = "paint-brush"
+  icon_pack = "fas"
+  name = "Arte digital"
+  description = "Creación y digitalización de arte"
 
 # Uncomment to use emoji icons.
 # [[feature]]
