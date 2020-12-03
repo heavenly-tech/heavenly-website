@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contacto'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pablo@heavenly.cl'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -73,6 +73,6 @@ highlight_name: false
 #- Visitors
 ---
 
-Nuestro fundador, siempre dispuesto a aprender y solucionar problemas. Fanático de la aviación, y un verdadero computín. Gracias a su título en Ingeniería cuenta con habilidades en programación y diseño orientado a la producción.
+Un ciudadano del mundo, ha vivido en Chile, España, e Inglaterra, con la mitad de su vida en Chile y la otra en Europa. Siempre apasionado por la aviación y un verdadero computín. Le encanta resolver problemas, aprender nuevas habilidades, y realizar proyectos creativos prácticos.
 
 Les extiende una buena acogida y desea lo mejor en todos sus proyectos! Estará disponible para atender sus consultas.

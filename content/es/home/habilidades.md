@@ -65,7 +65,7 @@ subtitle = ""
 [[feature]]
   icon = "paint-brush"
   icon_pack = "fas"
-  name = "Arte digital"
+  name = "Arte Digital"
   description = "Creación y digitalización de arte"
 
 # Uncomment to use emoji icons.
