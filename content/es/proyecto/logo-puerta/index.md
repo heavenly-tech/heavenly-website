@@ -8,6 +8,8 @@ date = "2020-11-10"
 
 draft = false
 
+translationKey = "door-logo"
+
 +++
 
 Para instalarnos debidamente en nuestra oficina, diseñamos una placa impresa enteramente con nuestras impresoras, le dimos nuestro propio toque.

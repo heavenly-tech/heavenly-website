@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "What we're working on"
 
 [content]
   # Page type to display. E.g. project.

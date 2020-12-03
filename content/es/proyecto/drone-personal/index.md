@@ -1,12 +1,14 @@
 +++
 
-title = "Drone autónomo para uso personal"
+title = "Drone autónomo para uso personal y desarrollo"
 
 tags = ["Drones", "Impresión 3D"]
 
-date = "2020-11-11"
+date = "2020-12-03"
 
 draft = true
+
+translationKey = "personal-drone"
 
 +++
 
