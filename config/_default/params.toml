@@ -48,7 +48,7 @@ local_business_type = "ProfessionalService"
 org_name = "Heavenly Tech SpA"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Descripción"
+description = "Ingeniería Aeroespacial, impresión 3D, simulación de vuelo, drones, proyectos de diseño, diseño web y computación."
 
 ############################
 ## Site Features
