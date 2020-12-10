@@ -12,6 +12,8 @@ translationKey = "sofilogo"
 
 +++
 
+Una vez definida la imagen de su negocio, seguramente le gustaría mostrarla de muchas maneras. Así se nos ocurrió crear una estatua pequeña para el logo de un estudio de belleza.
+
 ## Preparación de logo para impresión
 El logo de [sc.estudio](https://instagram.com/sc.estudio) ya estaba digitalizado, aún así hubo que prepararlo para impresión. Esto consiste en:
 

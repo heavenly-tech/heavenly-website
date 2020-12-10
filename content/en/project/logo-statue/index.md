@@ -12,6 +12,8 @@ translationKey = "sofilogo"
 
 +++
 
+Once a corporate image is set for your business, you would like to display it in many forms. One way that we came up with was to make a small statue for the logo of a beauty salon.
+
 ## Logo Processing for Printing
 [sc.estudio](https://instagram.com/sc.estudio)'s logo was already in a digital format, however, it was still required to process it in order to 3D print a product from it. This consists of:
 
