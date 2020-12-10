@@ -6,13 +6,13 @@ tags = ["Drones", "3D Printing"]
 
 date = "2020-12-03"
 
-draft = true
+draft = false
 
 translationKey = "personal-drone"
 
 +++
 
-In order to obtain skills in drone development, an autonomous drone project was started. Being our first drone project, we decided to use accessible yet expandable technologies and components that will serve as a testbed for futures projecs and wider applications.
+In order to obtain skills in drone development, an autonomous drone project was started. Being our first drone project, we decided to use accessible yet expandable technologies and components that will serve as a testbed and demonstrator for future projects and wider applications.
 
 ### Characteristics
 - 2kg of lift from motors and propellers
@@ -21,4 +21,4 @@ In order to obtain skills in drone development, an autonomous drone project was 
 - GNSS/GPS positioning and navigation capabilities
 - Manual and autonomous control
 
-## Images
+## Images of the progress
