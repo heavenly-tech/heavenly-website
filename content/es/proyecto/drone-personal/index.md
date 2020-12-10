@@ -6,13 +6,13 @@ tags = ["Drones", "Impresión 3D"]
 
 date = "2020-12-03"
 
-draft = true
+draft = false
 
 translationKey = "personal-drone"
 
 +++
 
-Por encargo de un cliente, comenzamos a diseñar un drone para uso personal. Al ser nuestro primer proyecto de drone, decidimos usar tecnologías y componentes que servirán como prueba para futuros proyectos y otras aplicaciones.
+Por encargo de un cliente, comenzamos a diseñar un drone para uso personal. Al ser nuestro primer proyecto de drone, decidimos usar tecnologías y componentes que servirán como prueba y demostradores para futuros proyectos y otras aplicaciones.
 
 ### Características
 - 2kg de capacidad de empuje de motores y hélices
@@ -21,4 +21,11 @@ Por encargo de un cliente, comenzamos a diseñar un drone para uso personal. Al 
 - Capacidades de navegación GNSS/GPS
 - Control manual o por piloto automático
 
-## Imágenes
+## Imágenes del avance
+- Primer diseño
+![](/media/Drone_R0.png)
+- Despliegue inicial
+![](/media/Drone_mockup.jpg)
+- Diseño actual
+![](/media/Drone_R1_14.png)
+![](/media/Drone_R1_14L.png)
