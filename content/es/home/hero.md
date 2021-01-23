@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "Academic Template"
+title = "Pasión por las soluciones tecnológicas"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+#hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,41 +18,42 @@ hero_media = "hero-academic.png"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-  
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
+
   # Background image.
   # image = ""  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
+  url = "https://www.heavenlychile.tech/"
+  label = "Ve nuestros productos"
   icon_pack = "fas"
-  icon = "download"
-  
+  icon = "store-alt"
+
 [cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+  url = "https://forum.heavenly.cl"
+  label = "Entra al foro"
+
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+#[cta_note]
+#  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+Hoy en día, las últimas tecnologías están al alcance de todos. Nos centramos en que  encanta desarrollar soluciones a medida y realizar su implementación. (simuladores de vuelo, computación, farmbot, 3d printers)
 
-Build **Anything** with Widgets
+Para brindar acceso a las últimas tecnologías, comenzamos a ofrecer impresoras 3D. Hacemos instalaciones y damos clases para los interesados que quieran iniciarse en esta reciente tendencia.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Contamos con una comunidad en nuestro foro donde se comparten experiencias y realizan discusiones.
