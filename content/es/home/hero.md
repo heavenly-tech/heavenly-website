@@ -52,8 +52,8 @@ title = "Pasión por las soluciones tecnológicas"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-Hoy en día, las últimas tecnologías están al alcance de todos. Nos centramos en que  encanta desarrollar soluciones a medida y realizar su implementación. (simuladores de vuelo, computación, farmbot, 3d printers)
+<!-- Hoy en día las últimas tecnologías están al alcance de todos, tanto así que es difícil saber qué combinación de ellas usar para llegar a una solución integral. Nosotros nos centramos en desarrollar soluciones a medida, realizar su implementación, y brindar apoyo contínuo. -->
 
-Para brindar acceso a las últimas tecnologías, comenzamos a ofrecer impresoras 3D. Hacemos instalaciones y damos clases para los interesados que quieran iniciarse en esta reciente tendencia.
+Comenzamos a ofrecer impresoras 3D porque simbolizan el espíritu de soluciones tecnológicas caseras accesibles. Hacemos instalaciones y damos clases para los interesados que quieran iniciarse en esta reciente tendencia.
 
-Contamos con una comunidad en nuestro foro donde se comparten experiencias y realizan discusiones.
+Contamos con una comunidad en nuestro foro donde se comparten experiencias, ofrece ayuda, y realizan discusiones.
