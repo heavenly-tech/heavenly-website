@@ -6,6 +6,8 @@ tags = ["Impresión 3D"]
 
 date = "2020-11-10"
 
+lastmod = "2021-01-25"
+
 draft = false
 
 translationKey = "door-logo"
@@ -32,3 +34,13 @@ Ya existían unas monturas para placas de vidrio o acrílico, por lo que se elig
 ![Marco con logo](/media/Logo_Setup4.jpg)
 ### Resultado final
 ![Logo final](/media/Logo_Final.jpg)
+
+# Actualización
+
+Finalmente, encargamos un acrílico para reemplazar la malla que imprimimos. De esta manera nos quedó un acabado más elegante. Imprimimos nuevamente las letras para dejar más limpia la placa.
+
+### Placa original
+![](/media/Logo_Original.jpg)
+
+### Placa acrílica
+![Logo acrílico](/media/Logo_Acrilico.jpg)

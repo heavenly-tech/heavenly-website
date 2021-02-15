@@ -14,10 +14,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hola!
+bio: Hola! Te invito a contactarme.
 
 interests:
-- Diseño Gráfico y Web
+- Diseño 3D, Gráfico y Web
 - Computación
 - Impresión 3D
 - Ingeniería Aeroespacial
@@ -73,6 +73,6 @@ highlight_name: false
 #- Visitors
 ---
 
-Un ciudadano del mundo, ha vivido en Chile, España, e Inglaterra, con la mitad de su vida en Chile y la otra en Europa. Siempre apasionado por la aviación y un verdadero computín. Le encanta resolver problemas, aprender nuevas habilidades, y realizar proyectos creativos prácticos.
+Un ciudadano del mundo, ha vivido en Chile, España, e Inglaterra, con la mitad de su vida en Chile y la otra en Europa. Apasionado por la aviación y un verdadero computín. Le encanta resolver problemas, aprender nuevas habilidades, y realizar proyectos creativos prácticos.
 
 Les extiende una buena acogida y desea lo mejor en todos sus proyectos! Estará disponible para atender sus consultas.
