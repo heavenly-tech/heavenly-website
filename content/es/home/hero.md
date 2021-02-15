@@ -54,6 +54,8 @@ title = "Pasión por las soluciones tecnológicas"
 
 <!-- Hoy en día las últimas tecnologías están al alcance de todos, tanto así que es difícil saber qué combinación de ellas usar para llegar a una solución integral. Nosotros nos centramos en desarrollar soluciones a medida, realizar su implementación, y brindar apoyo contínuo. -->
 
-Comenzamos a ofrecer impresoras 3D porque simbolizan el espíritu de soluciones tecnológicas caseras accesibles. Hacemos instalaciones y damos clases para los interesados que quieran iniciarse en esta reciente tendencia.
+Comenzamos a ofrecer impresoras 3D porque simbolizan el espíritu de soluciones tecnológicas caseras accesibles.
 
-Contamos con una comunidad en nuestro foro donde se comparten experiencias, ofrece ayuda, y realizan discusiones.
+Hacemos instalaciones y damos clases para los interesados que quieran iniciarse en esta reciente tendencia.
+
+Contamos con una comunidad en nuestro foro donde se comparten experiencias, ayuda, y realizan discusiones.
